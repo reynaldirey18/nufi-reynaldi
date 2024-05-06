@@ -1,4 +1,5 @@
-# nuxt-vuetify-starter
+
+**This invitation was made by myself for my wedding**
 
 ## Build Setup
 
